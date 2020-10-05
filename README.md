@@ -1,2 +1,6 @@
 # Kotlin_Learning02
-Aula_02
+Exemplo Simples de: 
+
+RadioGroup / RadioButton
+EditText   / TextView 
+Switch     / Button
